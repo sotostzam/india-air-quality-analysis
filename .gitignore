@@ -1,1 +1,5 @@
+# Dataset Files
 /dataset/*
+
+# Notebook Checkpoints
+.ipynb_checkpoints/
